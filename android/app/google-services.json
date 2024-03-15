@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "270405529120",
+    "project_id": "flutter-test-d2784",
+    "storage_bucket": "flutter-test-d2784.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270405529120:android:e80ff4ba7985bb0df75645",
+        "android_client_info": {
+          "package_name": "com.example.flutter_login_taxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270405529120-neng2og1dd4dq05ogicm77dgmsns80i6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQFwwH7r8OuPK0AL4ltbcp3A6-TwvjK_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270405529120-neng2og1dd4dq05ogicm77dgmsns80i6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "270405529120-orgt16l1gearnsr2bhrn08vjuau66cmk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterLoginTaxi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
